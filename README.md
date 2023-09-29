@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izzyjosh
-- 👀 I’m interested in python
-- 🌱 I’m currently learning django
+- 👀 I’m interested in python, JavaScript 
+- 🌱 I’m currently learning django, JavaScript,django RestFramework
 - 💞️ I’m looking to collaborate on other programmers
 - 📫 How to reach me 09123998340
 
