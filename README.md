@@ -1,16 +1,31 @@
+# 👋 Hello World, I'm Joshua
+
+I'm a **Full-Stack Engineer** passionate about building scalable systems, APIs, and real-world software solutions.
+
+I work mainly with **Node.js, TypeScript, Python, Express, Django | FastAPI, and PostgreSQL**.
+
+
 # About Me
-- 👋 Hi, I’m @izzyjosh
-- 👀 I’m interested in python, JavaScript 
-- 🌱 I’m currently learning django, JavaScript,django RestFramework
-- 💞️ I’m looking to collaborate with other programmers
-- 📫 How to reach me 09123998340
+- 🔭 Currently building scalable backend systems and APIs with interactive UI
+- 🌱 Learning system design, DevOps, and cloud deployment
+- ⚙️ Interested in microservices and distributed systems
+- 🚀 I love solving real-world engineering problems and collaborating with other devs
+- 🇳🇬 Based in Nigeria
 
 # 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,git,github,jquery,linux,postgres,vscode,sqlite,py,vim&perline=10)](https://skillicons.dev)
-<!---
-izzyjosh/izzyjosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,py,fastapi,nodejs,typescript,js,npm,express,aws,docker,linux,nginx,ubuntu,vercel,githubaction,git,github,postgres,mongodb,postman,react,supabase,vscode,firebase&perline=8" />
+  </a>
+</p>
+
+
+## 🚀 Projects
+
+- 📦 **Quiz API System** – REST API with authentication and scoring logic
+- 🛒 **E-commerce Bookstore API** – Backend system with cart & payments
+- 💬 **AI Chat App** – Streaming chat using Gemini API
+- 🧩 More projects coming soon...
 
 
 [![izzyjosh Github stats](https://github-readme-stats.vercel.app/api?username=izzyjosh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
