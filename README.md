@@ -28,12 +28,28 @@ I work mainly with **Node.js, TypeScript, Python, Express, Django | FastAPI, and
 - 🧩 More projects coming soon...
 
 
-[<div align="center">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=izzyjosh&show_icons=true&theme=tokyonight" width="90%" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=izzyjosh&show_icons=true&theme=tokyonight" 
+    style="width: 100%; max-width: 900px;" 
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzyjosh&layout=compact" width="70%" />
+  <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=izzyjosh" width="90%" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzyjosh&layout=compact" 
+    style="width: 100%; max-width: 600px;" 
+  />
+
+  <br/>
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=izzyjosh" 
+    style="width: 100%; max-width: 900px;" 
+  />
 
 </div>
