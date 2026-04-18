@@ -12,6 +12,12 @@ I work mainly with **Node.js, TypeScript, Python, Express, Django | FastAPI, and
 - 🚀 I love solving real-world engineering problems and collaborating with other devs
 - 🇳🇬 Based in Nigeria
 
+> “Let’s build something impactful together.”
+## 📫 Contact Me
+- 📞 Phone | WhatsApp: 09123998340
+- 📧 Email: joshuajosephizzyjosh@gmail.com    
+- 🐙 GitHub: https://github.com/izzyjosh   
+
 # 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
