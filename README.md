@@ -28,6 +28,7 @@ I work mainly with **Node.js, TypeScript, Python, Express, Django | FastAPI, and
 - 🧩 More projects coming soon...
 
 
+## 🔥 Github Stats
 <div align="center">
 
   <!-- GitHub Stats -->
