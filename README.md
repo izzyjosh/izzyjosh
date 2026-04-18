@@ -28,8 +28,12 @@ I work mainly with **Node.js, TypeScript, Python, Express, Django | FastAPI, and
 - 🧩 More projects coming soon...
 
 
-[![izzyjosh Github stats](https://github-readme-stats.vercel.app/api?username=izzyjosh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzyjosh&layout=compact)](https://github.com/izzyjosh/github-readme-stats)
+[<div align="center">
 
-# 🔥Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=izzyjosh)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=izzyjosh&show_icons=true&theme=tokyonight" width="90%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzyjosh&layout=compact" width="70%" />
+
+  <img src="https://streak-stats.demolab.com/?user=izzyjosh" width="90%" />
+
+</div>
